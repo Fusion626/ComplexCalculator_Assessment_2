@@ -1,0 +1,4 @@
+﻿  CalculatorForm.cpp
+  CalculatorForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  ComplexCalculator.vcxproj -> E:\Storage\University Work\Computing and Principles\Level 4 Assessment 2\Complex Calculator Folder\ComplexCalculator\Debug\ComplexCalculator.exe
+  ComplexCalculator.vcxproj -> E:\Storage\University Work\Computing and Principles\Level 4 Assessment 2\Complex Calculator Folder\ComplexCalculator\Debug\ComplexCalculator.pdb (Partial PDB)
